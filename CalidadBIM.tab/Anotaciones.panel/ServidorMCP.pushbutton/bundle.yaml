@@ -1,0 +1,3 @@
+title: "Servidor\nMCP"
+tooltip: "Inicia el servidor puente HTTP en el puerto 8050 para conectar Revit 2026 con el servidor MCP y asistentes de Inteligencia Artificial."
+author: "Calidad BIM"

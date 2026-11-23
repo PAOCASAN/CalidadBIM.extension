@@ -1,0 +1,7 @@
+{
+  "name": "CalidadBIM",
+  "author": "Antigravity Assistant",
+  "version": "1.0.0",
+  "description": "Extensión de Calidad de Modelado BIM y Servidor MCP para Revit 2026",
+  "dependencies": []
+}
